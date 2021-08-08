@@ -7,5 +7,5 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-04-755ca5e5171e/locations/asia-northeast2/workerPools/SOSIS'  
+    name: 'projects/qwiklabs-gcp-04-755ca5e5171e/locations/asia-northeast3/workerPools/SOSIS'  
     
